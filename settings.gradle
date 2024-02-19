@@ -1,4 +1,4 @@
 rootProject.name = 'unit-testing-examples'
 include 'simple'
 include 'moderate'
-
+include 'frameworks'
