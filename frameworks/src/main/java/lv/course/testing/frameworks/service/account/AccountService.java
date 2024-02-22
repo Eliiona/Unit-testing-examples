@@ -1,12 +1,12 @@
-package lv.course.testing.equals.service.account;
+package lv.course.testing.frameworks.service.account;
 
 
 import lombok.RequiredArgsConstructor;
-import lv.course.testing.equals.constants.AccountConstants;
-import lv.course.testing.equals.entity.Account;
-import lv.course.testing.equals.entity.Person;
-import lv.course.testing.equals.service.account.delegate.AccountNumberGenerator;
-import lv.course.testing.equals.service.account.delegate.InterestRateCalculator;
+import lv.course.testing.frameworks.constants.AccountConstants;
+import lv.course.testing.frameworks.entity.Account;
+import lv.course.testing.frameworks.entity.Person;
+import lv.course.testing.frameworks.service.account.delegate.AccountNumberGenerator;
+import lv.course.testing.frameworks.service.account.delegate.InterestRateCalculator;
 
 @RequiredArgsConstructor
 public class AccountService {

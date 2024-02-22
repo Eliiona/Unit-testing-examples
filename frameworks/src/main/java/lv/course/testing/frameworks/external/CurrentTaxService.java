@@ -1,4 +1,4 @@
-package lv.course.testing.equals.external;
+package lv.course.testing.frameworks.external;
 
 public class CurrentTaxService {
 

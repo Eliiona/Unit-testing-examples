@@ -30,7 +30,7 @@ class CalculationServiceTestExample {
 
     @Test
     void doCalculations_3() {
-        assertEquals(0.75, service.doCalculations(3 , 4));
+        assertEquals(0.75, service.doCalculations(3 , 4), 0.001);
     }
 
     @Test

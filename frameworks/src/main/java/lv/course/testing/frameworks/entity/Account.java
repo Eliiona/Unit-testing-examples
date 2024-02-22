@@ -1,10 +1,10 @@
-package lv.course.testing.equals.entity;
+package lv.course.testing.frameworks.entity;
 
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
-import lv.course.testing.equals.annotations.Connection;
-import lv.course.testing.equals.annotations.Id;
+import lv.course.testing.frameworks.annotations.Connection;
+import lv.course.testing.frameworks.annotations.Id;
 
 import java.util.List;
 

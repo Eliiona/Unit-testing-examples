@@ -1,4 +1,4 @@
-package lv.course.testing.equals.constants;
+package lv.course.testing.frameworks.constants;
 
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;

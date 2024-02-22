@@ -1,4 +1,4 @@
-package lv.course.testing.equals.service.account.delegate;
+package lv.course.testing.frameworks.service.account.delegate;
 
 import java.util.Map;
 

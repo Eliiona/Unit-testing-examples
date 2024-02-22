@@ -1,4 +1,4 @@
-package lv.course.testing.equals.entity;
+package lv.course.testing.frameworks.entity;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,7 +1,7 @@
-package lv.course.testing.equals.service.account.delegate;
+package lv.course.testing.frameworks.service.account.delegate;
 
 import lombok.RequiredArgsConstructor;
-import lv.course.testing.equals.external.CurrentTaxService;
+import lv.course.testing.frameworks.external.CurrentTaxService;
 
 import java.util.Map;
 import java.util.Optional;
